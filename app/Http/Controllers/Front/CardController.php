@@ -21,7 +21,7 @@ class CardController extends Controller
 {
     use Indexable;
     use MyTrait;
-    //...and other traits
+    //...and other traits...
 
     /**
      * Create a new controller instance.
